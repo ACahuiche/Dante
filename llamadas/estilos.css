@@ -1,0 +1,44 @@
+.container {
+	margin-top:20px;
+}
+
+.elementoForm {
+	margin-bottom: 5px;
+} 
+
+.form-floating>label {
+	left: 12px;
+	color: grey;
+}
+
+#contenedorLlamadas {
+		height: 400px;
+		width: 100%;
+		border: 1px solid #ddd;
+		background: #f1f1f1;
+		overflow-y: scroll;
+}
+
+.botonera {
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+
+.container-fluid {
+	margin-top: 15px;
+}
+
+.boton-derecha {
+	float: right;
+}
+.nav-nuevo {
+	margin-top: 10px;
+}
+
+.bi{
+	margin-right: 10px;
+}
+
+#testingText {
+	color: grey;
+}
